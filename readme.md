@@ -1,4 +1,4 @@
-# AWS Lambda - Insert log in DynamoDB
+# ⚡ AWS Lambda - Insert log in DynamoDB
 
 ## 👨‍💻 Projeto desenvolvido por: 
 [Rafael Torres Nantes](https://github.com/rafael-torres-nantes)
